@@ -4,4 +4,5 @@ Flock animal behaviour simulation, based on the 1987 paper by Craig Reynolds
   <li>Optimise</li>
   <li>Multithread</li>
   <li>Do in OpenGL 3D</li>
+  <li>Add ImGUI</li>
 </ul>

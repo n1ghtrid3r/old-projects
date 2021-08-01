@@ -4,4 +4,5 @@ Generation of a convex hull / tightest bounding polygon about a cluster of point
   <li>Optimise / Redo</li>
   <li>Multithread</li>
   <li>Add pics</li>
+  <li>Do in OpenGL</li>
 </ul>

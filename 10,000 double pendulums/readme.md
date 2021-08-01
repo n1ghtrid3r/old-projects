@@ -2,6 +2,6 @@
 C++ and SFML. 
 
 
-TODO:
--Optimise
+<h1>Todo</h1>
+<br>Optimise</br>
 -Multithread
